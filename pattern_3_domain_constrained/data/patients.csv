@@ -1,0 +1,19 @@
+patient_id,smoking_status,imd_quintile
+P001,never,1
+P002,current,3
+P003,former,5
+P004,unknown,2
+P005,non-smoker,4
+P006,nonsmoker,1
+P007,never smoked,3
+P008,ex,2
+P009,ex-smoker,5
+P010,former smoker,1
+P011,smoker,4
+P012,active,3
+P013,current smoker,2
+P014,NA,1
+P015,not recorded,5
+P016,never,0
+P017,current,6
+P018,former,3

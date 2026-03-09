@@ -1,0 +1,16 @@
+patient_id,is_smoker
+P001,yes
+P002,no
+P003,1
+P004,0
+P005,Y
+P006,N
+P007,true
+P008,false
+P009,t
+P010,f
+P011,TRUE
+P012,FALSE
+P013,maybe
+P014, yes
+P015,Yes
